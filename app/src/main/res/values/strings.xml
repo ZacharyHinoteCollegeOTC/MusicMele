@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicMele</string>
+    <string name="hawaii_5_0">Hawaii 5-0</string>
+    <string name="Play">Play</string>
+    <string name="Pause">Pause</string>
+    <string name="Rewind">Rewind</string>
+</resources>
